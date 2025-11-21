@@ -1,0 +1,90 @@
+[
+  {
+    "task": "breast",
+    "best": {
+      "lr": {
+        "params": {
+          "solver": "liblinear",
+          "penalty": "l2",
+          "C": 43.93970560760795
+        },
+        "auc": NaN
+      },
+      "gb": {
+        "params": {
+          "subsample": 0.7,
+          "n_estimators": 200,
+          "max_depth": 2,
+          "learning_rate": 0.1
+        },
+        "auc": NaN
+      }
+    }
+  },
+  {
+    "task": "diabetes",
+    "best": {
+      "lr": {
+        "params": {
+          "solver": "liblinear",
+          "penalty": "l2",
+          "C": 43.93970560760795
+        },
+        "auc": NaN
+      },
+      "gb": {
+        "params": {
+          "subsample": 0.7,
+          "n_estimators": 200,
+          "max_depth": 2,
+          "learning_rate": 0.1
+        },
+        "auc": NaN
+      }
+    }
+  },
+  {
+    "task": "heart",
+    "best": {
+      "lr": {
+        "params": {
+          "solver": "liblinear",
+          "penalty": "l2",
+          "C": 43.93970560760795
+        },
+        "auc": NaN
+      },
+      "gb": {
+        "params": {
+          "subsample": 0.7,
+          "n_estimators": 200,
+          "max_depth": 2,
+          "learning_rate": 0.1
+        },
+        "auc": NaN
+      }
+    }
+  },
+  {
+    "task": "kidney",
+    "best": {
+      "lr": {
+        "params": {
+          "solver": "liblinear",
+          "penalty": "l2",
+          "C": 43.93970560760795
+        },
+        "auc": NaN
+      },
+      "gb": {
+        "params": {
+          "subsample": 0.7,
+          "n_estimators": 200,
+          "max_depth": 2,
+          "learning_rate": 0.1
+        },
+        "auc": NaN
+      }
+    }
+  }
+]
